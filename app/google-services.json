@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317721135812",
+    "firebase_url": "https://crediscountgo.firebaseio.com",
+    "project_id": "crediscountgo",
+    "storage_bucket": "crediscountgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317721135812:android:41594fcf1e4f1a77",
+        "android_client_info": {
+          "package_name": "com.example.olivialai3.crediscountgo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317721135812-6sjl1a9nedqqbs1f77buosj4b6n3kbft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_MNJS2REsDPGt4Ltv5iGCgEA47-TZiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
